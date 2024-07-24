@@ -61,7 +61,7 @@ body {
   justify-content: center;
 }
 
-.carousel.no-transition{
+.carousel.no-transition {
   scroll-behavior: auto;
 }
 
